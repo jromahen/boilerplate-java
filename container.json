@@ -1,5 +1,5 @@
 {
-  "id": "java",
+  "id": "clojure",
   "name": "Java",
   "type": "wedeploy/java",
   "hooks": {
